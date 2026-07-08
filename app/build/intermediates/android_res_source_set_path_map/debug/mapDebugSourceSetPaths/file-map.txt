@@ -1,0 +1,59 @@
+com.moviles.appsemana07.app-navigation-runtime-release-0 C:\Users\juamp\.gradle\caches\9.2.1\transforms\01b2d27fb2ab94e72453aec880f2cd39\workspace\transformed\navigation-runtime-release\res
+com.moviles.appsemana07.app-core-runtime-2.2.0-1 C:\Users\juamp\.gradle\caches\9.2.1\transforms\01d58126a1b9379e8dfe274975e95b54\workspace\transformed\core-runtime-2.2.0\res
+com.moviles.appsemana07.app-room-ktx-2.8.4-2 C:\Users\juamp\.gradle\caches\9.2.1\transforms\03a58cb5d80d3ca5401f2be745addd1a\workspace\transformed\room-ktx-2.8.4\res
+com.moviles.appsemana07.app-lifecycle-viewmodel-ktx-2.10.0-3 C:\Users\juamp\.gradle\caches\9.2.1\transforms\055d55e7a4e40c01ed034bc4c6f4f41e\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.moviles.appsemana07.app-appcompat-1.7.0-4 C:\Users\juamp\.gradle\caches\9.2.1\transforms\09410c21b98faadc7810e7759b5e8dee\workspace\transformed\appcompat-1.7.0\res
+com.moviles.appsemana07.app-ui-release-5 C:\Users\juamp\.gradle\caches\9.2.1\transforms\09ded1f970bd75c178eadcf3d7542894\workspace\transformed\ui-release\res
+com.moviles.appsemana07.app-appcompat-resources-1.7.0-6 C:\Users\juamp\.gradle\caches\9.2.1\transforms\0b021c21b3e1ef40f6c2461a198ce3f4\workspace\transformed\appcompat-resources-1.7.0\res
+com.moviles.appsemana07.app-core-ktx-1.18.0-7 C:\Users\juamp\.gradle\caches\9.2.1\transforms\1afc201f66daf5945d72d059694cdd8b\workspace\transformed\core-ktx-1.18.0\res
+com.moviles.appsemana07.app-core-1.18.0-8 C:\Users\juamp\.gradle\caches\9.2.1\transforms\1e1c36f4f6ea8a43690a38ae26262abf\workspace\transformed\core-1.18.0\res
+com.moviles.appsemana07.app-coordinatorlayout-1.1.0-9 C:\Users\juamp\.gradle\caches\9.2.1\transforms\234c64f88b3849b5166e4bba0a868881\workspace\transformed\coordinatorlayout-1.1.0\res
+com.moviles.appsemana07.app-material-icons-extended-release-10 C:\Users\juamp\.gradle\caches\9.2.1\transforms\25e93ea32252d08d50442296418aac64\workspace\transformed\material-icons-extended-release\res
+com.moviles.appsemana07.app-emoji2-views-helper-1.4.0-11 C:\Users\juamp\.gradle\caches\9.2.1\transforms\2c9fefe40ea33b721ac0f8e1aa534f13\workspace\transformed\emoji2-views-helper-1.4.0\res
+com.moviles.appsemana07.app-navigationevent-12 C:\Users\juamp\.gradle\caches\9.2.1\transforms\2f809463542c18c6b4ecadf04335f4a1\workspace\transformed\navigationevent\res
+com.moviles.appsemana07.app-ui-test-manifest-1.9.2-13 C:\Users\juamp\.gradle\caches\9.2.1\transforms\391302bec3cfe0255b3514963dca8507\workspace\transformed\ui-test-manifest-1.9.2\res
+com.moviles.appsemana07.app-savedstate-14 C:\Users\juamp\.gradle\caches\9.2.1\transforms\47e5833412d42db19f84534f3134d6ea\workspace\transformed\savedstate\res
+com.moviles.appsemana07.app-lifecycle-process-2.10.0-15 C:\Users\juamp\.gradle\caches\9.2.1\transforms\494078ea6f35cb09b8de3ed33ac70dfa\workspace\transformed\lifecycle-process-2.10.0\res
+com.moviles.appsemana07.app-foundation-release-16 C:\Users\juamp\.gradle\caches\9.2.1\transforms\59939a6b02c5f04d0171d540aedda703\workspace\transformed\foundation-release\res
+com.moviles.appsemana07.app-cardview-1.0.0-17 C:\Users\juamp\.gradle\caches\9.2.1\transforms\5b5fb8f2b35b2d1886999ffe4d620420\workspace\transformed\cardview-1.0.0\res
+com.moviles.appsemana07.app-drawerlayout-1.1.1-18 C:\Users\juamp\.gradle\caches\9.2.1\transforms\62bdd00b1cf196adb90e36a1e54a5e3e\workspace\transformed\drawerlayout-1.1.1\res
+com.moviles.appsemana07.app-fragment-1.5.4-19 C:\Users\juamp\.gradle\caches\9.2.1\transforms\643c34b65875a49868389c46c3c52418\workspace\transformed\fragment-1.5.4\res
+com.moviles.appsemana07.app-activity-compose-1.13.0-20 C:\Users\juamp\.gradle\caches\9.2.1\transforms\6705756be5adb8ebb6b698cb54bfd402\workspace\transformed\activity-compose-1.13.0\res
+com.moviles.appsemana07.app-recyclerview-1.2.1-21 C:\Users\juamp\.gradle\caches\9.2.1\transforms\6cf4b120042b2ed6940ba1b5f6b06292\workspace\transformed\recyclerview-1.2.1\res
+com.moviles.appsemana07.app-lifecycle-runtime-22 C:\Users\juamp\.gradle\caches\9.2.1\transforms\6fd29ba346ea16b6d60330a63625197b\workspace\transformed\lifecycle-runtime\res
+com.moviles.appsemana07.app-navigation-compose-release-23 C:\Users\juamp\.gradle\caches\9.2.1\transforms\725ff38c9579b99db0fb89afb485620a\workspace\transformed\navigation-compose-release\res
+com.moviles.appsemana07.app-material-release-24 C:\Users\juamp\.gradle\caches\9.2.1\transforms\78591e5c158abf89cdc4f3dff951db6d\workspace\transformed\material-release\res
+com.moviles.appsemana07.app-material3-25 C:\Users\juamp\.gradle\caches\9.2.1\transforms\7a1e2f4a5ddd26a7dae3e305f3dd3108\workspace\transformed\material3\res
+com.moviles.appsemana07.app-emoji2-1.4.0-26 C:\Users\juamp\.gradle\caches\9.2.1\transforms\804a8d7bd9432e65adc4f6f973b857a4\workspace\transformed\emoji2-1.4.0\res
+com.moviles.appsemana07.app-lifecycle-livedata-core-ktx-2.10.0-27 C:\Users\juamp\.gradle\caches\9.2.1\transforms\82a9e19f271464a74314552f281b046a\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\res
+com.moviles.appsemana07.app-activity-1.13.0-28 C:\Users\juamp\.gradle\caches\9.2.1\transforms\8318fdf147cb1b6c266f8fb6d076ba70\workspace\transformed\activity-1.13.0\res
+com.moviles.appsemana07.app-profileinstaller-1.4.0-29 C:\Users\juamp\.gradle\caches\9.2.1\transforms\896852c5e23aaeb11ed851bf913539f5\workspace\transformed\profileinstaller-1.4.0\res
+com.moviles.appsemana07.app-core-viewtree-1.0.0-30 C:\Users\juamp\.gradle\caches\9.2.1\transforms\91bccc02d86a849bc3abb332f5988be2\workspace\transformed\core-viewtree-1.0.0\res
+com.moviles.appsemana07.app-customview-poolingcontainer-1.0.0-31 C:\Users\juamp\.gradle\caches\9.2.1\transforms\9684ffdced6b061ec067c692750efb63\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.moviles.appsemana07.app-material-icons-core-release-32 C:\Users\juamp\.gradle\caches\9.2.1\transforms\97bfe81024f967755f58cf6673b34dd4\workspace\transformed\material-icons-core-release\res
+com.moviles.appsemana07.app-lifecycle-viewmodel-33 C:\Users\juamp\.gradle\caches\9.2.1\transforms\98f07aab55524086cb82a034d8bad860\workspace\transformed\lifecycle-viewmodel\res
+com.moviles.appsemana07.app-transition-1.5.0-34 C:\Users\juamp\.gradle\caches\9.2.1\transforms\9a5707518bb8e4728e17bc53778f3906\workspace\transformed\transition-1.5.0\res
+com.moviles.appsemana07.app-tracing-1.2.0-35 C:\Users\juamp\.gradle\caches\9.2.1\transforms\a0a62fd7d211bc7417a8966573cb14d5\workspace\transformed\tracing-1.2.0\res
+com.moviles.appsemana07.app-graphics-path-1.0.1-36 C:\Users\juamp\.gradle\caches\9.2.1\transforms\a1a45a37d7027438244fccd5b26967c7\workspace\transformed\graphics-path-1.0.1\res
+com.moviles.appsemana07.app-material-1.14.0-37 C:\Users\juamp\.gradle\caches\9.2.1\transforms\a66dfed38d6aabf3ee3acfc755f6ddcb\workspace\transformed\material-1.14.0\res
+com.moviles.appsemana07.app-annotation-experimental-1.5.0-38 C:\Users\juamp\.gradle\caches\9.2.1\transforms\a718b0859f1ba2d9bf6714eae63754a1\workspace\transformed\annotation-experimental-1.5.0\res
+com.moviles.appsemana07.app-lifecycle-livedata-core-2.10.0-39 C:\Users\juamp\.gradle\caches\9.2.1\transforms\b83c04f8d16882abea9f7afe9c4fc35e\workspace\transformed\lifecycle-livedata-core-2.10.0\res
+com.moviles.appsemana07.app-customview-1.2.0-40 C:\Users\juamp\.gradle\caches\9.2.1\transforms\b96d8b0b6a46a4274e96243d0225ed79\workspace\transformed\customview-1.2.0\res
+com.moviles.appsemana07.app-graphics-shapes-release-41 C:\Users\juamp\.gradle\caches\9.2.1\transforms\c4f53afd949410df49f2003d44bb7534\workspace\transformed\graphics-shapes-release\res
+com.moviles.appsemana07.app-material-ripple-release-42 C:\Users\juamp\.gradle\caches\9.2.1\transforms\db7191b0ccb2e67675d58752417fdbbe\workspace\transformed\material-ripple-release\res
+com.moviles.appsemana07.app-savedstate-ktx-1.4.0-43 C:\Users\juamp\.gradle\caches\9.2.1\transforms\dfa8feaeaa2980471a3dd4fe289c2294\workspace\transformed\savedstate-ktx-1.4.0\res
+com.moviles.appsemana07.app-navigation-common-release-44 C:\Users\juamp\.gradle\caches\9.2.1\transforms\e5b6ebf9a291d7986a8693e296404e99\workspace\transformed\navigation-common-release\res
+com.moviles.appsemana07.app-constraintlayout-2.2.1-45 C:\Users\juamp\.gradle\caches\9.2.1\transforms\e80e6c54e1d477533cd233261bfb1d01\workspace\transformed\constraintlayout-2.2.1\res
+com.moviles.appsemana07.app-activity-ktx-1.13.0-46 C:\Users\juamp\.gradle\caches\9.2.1\transforms\ea875d4f7a83a104046a82f9cec570d5\workspace\transformed\activity-ktx-1.13.0\res
+com.moviles.appsemana07.app-startup-runtime-1.1.1-47 C:\Users\juamp\.gradle\caches\9.2.1\transforms\ee45252447a7aa30d4ca6269cf6f5e6b\workspace\transformed\startup-runtime-1.1.1\res
+com.moviles.appsemana07.app-viewpager2-1.0.0-48 C:\Users\juamp\.gradle\caches\9.2.1\transforms\f4b7010bf3fa07130d749d9e8e4cdcfb\workspace\transformed\viewpager2-1.0.0\res
+com.moviles.appsemana07.app-lifecycle-livedata-2.10.0-49 C:\Users\juamp\.gradle\caches\9.2.1\transforms\f71f2c0d2871443d540d52b2c7fe623c\workspace\transformed\lifecycle-livedata-2.10.0\res
+com.moviles.appsemana07.app-dynamicanimation-1.1.0-50 C:\Users\juamp\.gradle\caches\9.2.1\transforms\f952a925aa61f918ecca6fcc6539ceeb\workspace\transformed\dynamicanimation-1.1.0\res
+com.moviles.appsemana07.app-ui-graphics-release-51 C:\Users\juamp\.gradle\caches\9.2.1\transforms\ff2a342fc512974cd5fb48d8ca4e1fc8\workspace\transformed\ui-graphics-release\res
+com.moviles.appsemana07.app-pngs-52 C:\Users\juamp\Downloads\appSemana07_corregido (1)\appSemana07\app\build\generated\res\pngs\debug
+com.moviles.appsemana07.app-updated_navigation_xml-53 C:\Users\juamp\Downloads\appSemana07_corregido (1)\appSemana07\app\build\generated\updated_navigation_xml\debug
+com.moviles.appsemana07.app-packageDebugResources-54 C:\Users\juamp\Downloads\appSemana07_corregido (1)\appSemana07\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.moviles.appsemana07.app-packageDebugResources-55 C:\Users\juamp\Downloads\appSemana07_corregido (1)\appSemana07\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.moviles.appsemana07.app-debug-56 C:\Users\juamp\Downloads\appSemana07_corregido (1)\appSemana07\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.moviles.appsemana07.app-debug-57 C:\Users\juamp\Downloads\appSemana07_corregido (1)\appSemana07\app\src\debug\res
+com.moviles.appsemana07.app-main-58 C:\Users\juamp\Downloads\appSemana07_corregido (1)\appSemana07\app\src\main\res
